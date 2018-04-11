@@ -61,14 +61,8 @@ public class TimeRecorder {
 				weekHours[employeeCount] = weekHours[employeeCount] 
 						+ hours[employeeCount][currentDay.ordinal()];
 			}
-			
-			
+	
 		}
-		
-		
-
-				//weekHours[employeeCount] = weekHours[employeeCount] 
-		//													+ hours[employeeCount][currentDay.ordinal()];
 	}
 	
 
